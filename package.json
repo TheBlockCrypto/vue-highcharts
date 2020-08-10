@@ -1,6 +1,6 @@
 {
   "name": "@theblockcrypto/vue-highcharts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Highcharts component for Vue",
   "main": "dist/vue-highcharts.js",
   "module": "src/index.js",
